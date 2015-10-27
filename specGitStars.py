@@ -9,8 +9,8 @@ outCountFile = 'outCount.xls'
 lastopenfile = ''
 
 #if count fix num
-iscountvalid = 0
-outPutNum = 2
+iscountvalid = 1
+outPutNum = 10
 
 #specific index
 global fromIndex
